@@ -1,0 +1,43 @@
+li {
+color: red;
+
+  
+}
+.upper {
+color: white;
+}
+body {background-color: teal ; 
+}
+
+h1 { 
+  color: white;
+   word-spacing: 30px; 
+  
+}
+h1:hover {
+    color:black
+  }
+
+h2{ 
+   writing-mode: vertical-rl;
+  padding: 16px; 
+  border: 2px dashed tan;
+  margin-left: 32px;
+  
+  
+  
+}
+body {
+ width: 100px;
+  height: 100px;
+  background: red;
+}
+
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+
+
